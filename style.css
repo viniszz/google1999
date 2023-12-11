@@ -1,0 +1,48 @@
+#search {
+    text-align: center;
+    padding: 220px;
+}
+
+#txtgoogle {
+    width: 33% !important;
+    padding: 2px;
+}
+
+#logo {
+    text-align: center;
+    margin-top: -400px;
+}
+
+#text1 {
+    text-align: center;
+    margin-top: -20px;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+#text2 {
+    text-align: center;
+    margin-top: 70px;
+    color: rgb(24, 24, 189);
+    font-size: 19px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#text3 {
+    text-align: center;
+}
+
+#button1 {
+    text-align: center;
+    margin-top: -120px;
+    margin-left: -150px;
+    height: 100px;
+}
+
+#button2 {
+    text-align: center;
+    margin-top: -100px;
+    margin-left: 140px;
+    height: 100px;
+}
